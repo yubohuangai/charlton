@@ -4,7 +4,7 @@ main:
     authors: <strong>Yubo Huang</strong>, Jia Wang, Peipei Li, Liuyu Xiang, Peigang Li, and Zhaofeng He  
     conference_short: ICME
     conference: The IEEE Conference on Multimedia and Expo <strong>(ICME)</strong>, 2023.
-    pdf: http://sawyercharlton.github.io/home/files/Generative_Iris_Prior_Embedded_Transformer_for_Iris_Restoration.pdf
+    pdf: https://ieeexplore.ieee.org/document/10219618
     code: https://github.com/sawyercharlton/Gformer
     notes: Oral Presentation
     image: ./assets/img/gformer.png
