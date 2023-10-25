@@ -1,5 +1,5 @@
 # Basic Information 
-title: Yubo Huang (黄昱博)
+title: Yubo Huang
 position: Master's Student
 affiliation: Laurentian University
 email: yubo.huang@hotmail.com
@@ -21,7 +21,7 @@ google_scholar: https://scholar.google.com/citations?user=qvTy9W0AAAAJ&hl=en&oi=
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
-# favicon: ./assets/img/favicon.png
+favicon: ./assets/img/favicon.png
 # favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
@@ -38,7 +38,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
