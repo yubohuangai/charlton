@@ -9,7 +9,7 @@ and my B.S. degree from [Beijing University of Posts and Telecommunications](htt
 
 My research interests include **data compression** and **efficient machine learning**. Previously, my research lay at the intersection of **computer vision** and **machine learning** -- with a special focus on iris image restoration aiming to improve iris recognition.
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600"> I am looking for a Ph.D. position related to Artificial Intelligence and  in Canada 2025. Please feel free to contact me if you are interested.</strong></strong>
+<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600"> I am looking for a Ph.D. position related to Artificial Intelligence and Machine Learning in Canada 2025. Please feel free to contact me if you are interested.</strong></strong>
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
