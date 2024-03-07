@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am currently a master’s student major in Computational Sciences at [Laurentian University](https://laurentian.ca/). I received my M.Eng. degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2023, advised by Prof. [Zhaofeng He](https://scholar.google.ca/citations?user=JUz2KfAAAAAJ&hl=en&oi=sra), Prof. [Peipei Li](https://scholar.google.com/citations?user=A0khpKYAAAAJ&hl=en), and Prof. [Liuyu Xiang](https://scholar.google.ca/citations?hl=en&user=Ve82AEsAAAAJ&view_op=list_works&sortby=pubdate),
-and my B.S. degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2020. 
+I am currently a master’s student major in Computational Sciences at [Laurentian University](https://laurentian.ca/). I was born in Shanxi, China in 1998. ,
+and my B.S. degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2020. I received my M.Eng. degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2023, advised by Prof. [Zhaofeng He](https://scholar.google.ca/citations?user=JUz2KfAAAAAJ&hl=en&oi=sra), Prof. [Peipei Li](https://scholar.google.com/citations?user=A0khpKYAAAAJ&hl=en), and Prof. [Liuyu Xiang](https://scholar.google.ca/citations?hl=en&user=Ve82AEsAAAAJ&view_op=list_works&sortby=pubdate).
 
 My research interests include **artificial general intelligence** and **efficient machine learning**. Previously, my research lay at the intersection of **computer vision** and **deep learning** -- with a special focus on iris image restoration aiming to improve iris recognition.
 
