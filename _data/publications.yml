@@ -11,7 +11,7 @@ main:
     
   - title: Prior-guided Blind Iris Image Restoration Algorithm 先验引导的虹膜图像盲修复算法
     authors: Jia Wang, Liuyu Xiang, <strong>Yubo Huang</strong>, Yufeng Xia, Qing Tian, and Zhaofeng He
-    conference: Computer Science 计算机科学, 2023, 50(12): 148-155.
+    conference: "Computer Science 计算机科学, 2023, 50(12): 148-155."
     pdf: https://www.jsjkx.com/EN/Y2023/V50/I12/148
     image: ./assets/img/blind.png
     
