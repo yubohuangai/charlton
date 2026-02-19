@@ -10,7 +10,7 @@ I am Yubo Huang. I was born in Shanxi, China, in 1998. I received my B.S. degree
 
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600"> I am actively looking for a Ph.D. position related to robotics and graphics in Canada for 2026. Please feel free to contact me if you are interested.</strong></strong>
 
-My research interests include **robotics** and **graphics**. I am always eager to learn and explore new ideas. Currently, I am working on **multi-view motion capture** and have experience with **motion capture from sparse IMUs**.
+My research interests include **robotics** and **graphics**. I am always eager to learn and explore new ideas. Currently, I am working on **multi-view motion capture** and **motion capture from sparse IMUs**.
 
 {% include_relative _includes/publications.md %}
 
