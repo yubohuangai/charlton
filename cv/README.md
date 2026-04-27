@@ -1,16 +1,17 @@
-# CV — Yubo Huang
+# CV
 
-Source for my curriculum vitae. Built with XeLaTeX using the [`chicv`](https://github.com/matchy233/chi-cv-template) class (a slim CV template by Matchy, in turn based on [Alex Chi Zhang's CV](https://skyzh.github.io/files/cv.pdf)).
+LaTeX source for my curriculum vitae. Built with XeLaTeX using the [`chicv`](https://github.com/matchy233/chi-cv-template) class (a slim CV template by Matchy, in turn based on [Alex Chi Zhang's CV](https://skyzh.github.io/files/cv.pdf)).
 
-The latest rendered PDF lives at [`resume.pdf`](resume.pdf).
+The rendered PDF is published at [`/assets/files/resume.pdf`](../assets/files/resume.pdf) and is rebuilt automatically by the [`build-cv`](../.github/workflows/build-cv.yml) GitHub Actions workflow whenever this directory changes.
 
 ![Preview](./img/chi-cv-preview.png)
 
-## Building
+## Building locally
 
-Requires a TeX Live distribution with `xelatex` and the `fontspec`, `fontawesome5`, `xifthen`, `xparse`, `enumitem`, `titlesec`, `fancyhdr`, and `hyperref` packages (all standard).
+Requires a TeX Live distribution with `xelatex` and the standard `fontspec`, `fontawesome5`, `xifthen`, `xparse`, `enumitem`, `titlesec`, `fancyhdr`, and `hyperref` packages.
 
 ```sh
+cd cv
 xelatex resume.tex
 ```
 
@@ -24,7 +25,6 @@ The fonts (XCharter and Avenir Next LT Pro) ship in [`fonts/`](fonts/) and are p
 | `chicv.cls` | Document class: page layout, fonts, `\cventry`, `basicinfo`, contact-link macros. |
 | `fonts/` | Bundled fonts used as a fallback by the class. |
 | `img/` | Preview image used in this README. |
-| `resume.pdf` | Latest build, committed for convenience. |
 
 ## License
 

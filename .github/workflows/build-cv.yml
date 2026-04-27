@@ -1,0 +1,42 @@
+name: build-cv
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'cv/**'
+      - '.github/workflows/build-cv.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compile resume.pdf
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: resume.tex
+          working_directory: cv
+          latexmk_use_xelatex: true
+
+      - name: Publish to assets/files/resume.pdf
+        run: |
+          mkdir -p assets/files
+          mv cv/resume.pdf assets/files/resume.pdf
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- assets/files/resume.pdf; then
+            echo "No change to resume.pdf"
+          else
+            git add assets/files/resume.pdf
+            git commit -m "Rebuild resume.pdf from cv/ [skip ci]"
+            git push
+          fi
