@@ -8,10 +8,8 @@ I am Yubo Huang. I was born in Shanxi, China, in 1998. I received my B.S. degree
 
 [//]: # (advised by Prof. [Zhaofeng He]&#40;https://scholar.google.ca/citations?user=JUz2KfAAAAAJ&hl=en&oi=sra&#41;, Prof. [Peipei Li]&#40;https://scholar.google.com/citations?user=A0khpKYAAAAJ&hl=en&#41;, and Prof. [Liuyu Xiang]&#40;https://scholar.google.ca/citations?hl=en&user=Ve82AEsAAAAJ&view_op=list_works&sortby=pubdate&#41;.)
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600"> I am actively looking for a Ph.D. position related to robotics and graphics in Canada for 2026. Please feel free to contact me if you are interested.</strong></strong>
+<strong style="color:#e74d3c; font-weight:600">I am actively looking for a Ph.D. position related to robotics and graphics in Canada for 2026. Please feel free to contact me if you are interested.</strong>
 
 My research interests include **robotics**, **vision**, and **graphics**. I am always eager to learn and explore new ideas. Currently, I am working on **multi-view motion capture** and **motion capture from sparse IMUs**.
 
 {% include_relative _includes/publications.md %}
-
-<!-- {% include_relative _includes/services.md %} -->
